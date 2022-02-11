@@ -1,1 +1,1 @@
-# Batman_glo
+# Batman_glo - учебный проект Glo academy
